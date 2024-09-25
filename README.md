@@ -26,3 +26,6 @@ Train-test split: The dataset is divided into training and testing sets to evalu
 Model Evaluation:
 
 Accuracy: Primary metric to evaluate the overall performance of the logistic regression model.
+
+Dataset: https://www.kaggle.com/datasets/uciml/iris
+Project Link: https://colab.research.google.com/drive/17heSumSIYkX4wj09pxvSa7TISOSnAaWh?usp=sharing
